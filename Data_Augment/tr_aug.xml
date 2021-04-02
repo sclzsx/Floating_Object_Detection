@@ -1,0 +1,1580 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\1.jpg'>
+    <box top='150' left='174' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\2.jpg'>
+    <box top='158' left='174' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\3.jpg'>
+    <box top='158' left='174' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\4.jpg'>
+    <box top='158' left='174' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\5.jpg'>
+    <box top='158' left='174' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\6.jpg'>
+    <box top='166' left='182' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\7.jpg'>
+    <box top='166' left='182' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\8.jpg'>
+    <box top='174' left='182' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\9.jpg'>
+    <box top='174' left='182' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\10.jpg'>
+    <box top='174' left='182' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\11.jpg'>
+    <box top='174' left='182' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\12.jpg'>
+    <box top='182' left='182' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\13.jpg'>
+    <box top='150' left='174' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\14.jpg'>
+    <box top='158' left='174' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\15.jpg'>
+    <box top='158' left='174' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\16.jpg'>
+    <box top='158' left='174' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\17.jpg'>
+    <box top='158' left='182' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\18.jpg'>
+    <box top='158' left='182' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\19.jpg'>
+    <box top='158' left='182' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\20.jpg'>
+    <box top='158' left='182' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\21.jpg'>
+    <box top='166' left='182' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\22.jpg'>
+    <box top='166' left='182' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\23.jpg'>
+    <box top='166' left='190' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\24.jpg'>
+    <box top='150' left='174' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\25.jpg'>
+    <box top='158' left='174' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\26.jpg'>
+    <box top='158' left='174' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\27.jpg'>
+    <box top='158' left='174' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\28.jpg'>
+    <box top='158' left='166' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\29.jpg'>
+    <box top='158' left='166' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\30.jpg'>
+    <box top='158' left='166' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\31.jpg'>
+    <box top='158' left='166' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\32.jpg'>
+    <box top='158' left='166' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\33.jpg'>
+    <box top='166' left='166' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\34.jpg'>
+    <box top='166' left='166' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\35.jpg'>
+    <box top='150' left='174' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\36.jpg'>
+    <box top='150' left='174' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\37.jpg'>
+    <box top='150' left='174' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\38.jpg'>
+    <box top='150' left='174' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\39.jpg'>
+    <box top='150' left='182' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\40.jpg'>
+    <box top='150' left='182' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\41.jpg'>
+    <box top='150' left='182' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\42.jpg'>
+    <box top='142' left='182' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\43.jpg'>
+    <box top='142' left='182' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\44.jpg'>
+    <box top='142' left='182' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\45.jpg'>
+    <box top='142' left='190' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\46.jpg'>
+    <box top='150' left='174' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\47.jpg'>
+    <box top='150' left='174' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\48.jpg'>
+    <box top='150' left='174' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\49.jpg'>
+    <box top='150' left='166' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\50.jpg'>
+    <box top='150' left='166' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\51.jpg'>
+    <box top='150' left='166' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\52.jpg'>
+    <box top='150' left='166' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\53.jpg'>
+    <box top='142' left='166' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\54.jpg'>
+    <box top='142' left='166' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\55.jpg'>
+    <box top='142' left='166' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\56.jpg'>
+    <box top='142' left='166' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\113.jpg'>
+    <box top='198' left='102' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\114.jpg'>
+    <box top='198' left='102' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\115.jpg'>
+    <box top='198' left='94' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\116.jpg'>
+    <box top='198' left='94' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\117.jpg'>
+    <box top='198' left='94' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\118.jpg'>
+    <box top='198' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\119.jpg'>
+    <box top='198' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\120.jpg'>
+    <box top='198' left='78' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\122.jpg'>
+    <box top='214' left='62' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\124.jpg'>
+    <box top='206' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\125.jpg'>
+    <box top='198' left='102' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\126.jpg'>
+    <box top='198' left='102' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\127.jpg'>
+    <box top='206' left='102' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\128.jpg'>
+    <box top='206' left='102' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\129.jpg'>
+    <box top='206' left='110' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\130.jpg'>
+    <box top='206' left='110' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\131.jpg'>
+    <box top='206' left='110' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\132.jpg'>
+    <box top='214' left='110' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\133.jpg'>
+    <box top='214' left='110' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\134.jpg'>
+    <box top='214' left='110' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\135.jpg'>
+    <box top='214' left='110' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\136.jpg'>
+    <box top='198' left='102' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\137.jpg'>
+    <box top='198' left='102' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\138.jpg'>
+    <box top='206' left='102' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\139.jpg'>
+    <box top='206' left='102' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\140.jpg'>
+    <box top='206' left='94' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\141.jpg'>
+    <box top='206' left='94' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\142.jpg'>
+    <box top='206' left='94' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\143.jpg'>
+    <box top='214' left='94' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\144.jpg'>
+    <box top='214' left='94' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\145.jpg'>
+    <box top='214' left='94' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\146.jpg'>
+    <box top='214' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\147.jpg'>
+    <box top='198' left='102' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\148.jpg'>
+    <box top='198' left='102' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\149.jpg'>
+    <box top='198' left='102' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\150.jpg'>
+    <box top='198' left='102' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\151.jpg'>
+    <box top='198' left='110' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\152.jpg'>
+    <box top='198' left='110' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\153.jpg'>
+    <box top='198' left='110' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\154.jpg'>
+    <box top='198' left='110' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\155.jpg'>
+    <box top='190' left='110' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\156.jpg'>
+    <box top='190' left='110' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\157.jpg'>
+    <box top='190' left='110' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\158.jpg'>
+    <box top='198' left='102' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\159.jpg'>
+    <box top='198' left='102' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\160.jpg'>
+    <box top='198' left='102' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\161.jpg'>
+    <box top='198' left='102' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\162.jpg'>
+    <box top='198' left='94' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\163.jpg'>
+    <box top='198' left='94' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\164.jpg'>
+    <box top='198' left='94' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\165.jpg'>
+    <box top='198' left='94' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\166.jpg'>
+    <box top='190' left='94' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\167.jpg'>
+    <box top='190' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\168.jpg'>
+    <box top='190' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\169.jpg'>
+    <box top='102' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\170.jpg'>
+    <box top='102' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\171.jpg'>
+    <box top='102' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\172.jpg'>
+    <box top='94' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\173.jpg'>
+    <box top='94' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\174.jpg'>
+    <box top='86' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\175.jpg'>
+    <box top='86' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\176.jpg'>
+    <box top='78' left='46' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\177.jpg'>
+    <box top='70' left='46' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\178.jpg'>
+    <box top='70' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\179.jpg'>
+    <box top='62' left='46' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\181.jpg'>
+    <box top='110' left='62' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\182.jpg'>
+    <box top='110' left='62' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\183.jpg'>
+    <box top='110' left='62' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\184.jpg'>
+    <box top='110' left='62' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\185.jpg'>
+    <box top='110' left='62' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\186.jpg'>
+    <box top='110' left='62' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\187.jpg'>
+    <box top='110' left='62' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\188.jpg'>
+    <box top='110' left='62' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\189.jpg'>
+    <box top='110' left='62' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\190.jpg'>
+    <box top='118' left='62' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\191.jpg'>
+    <box top='118' left='62' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\192.jpg'>
+    <box top='102' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\193.jpg'>
+    <box top='110' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\194.jpg'>
+    <box top='110' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\195.jpg'>
+    <box top='110' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\196.jpg'>
+    <box top='110' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\197.jpg'>
+    <box top='110' left='46' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\198.jpg'>
+    <box top='110' left='46' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\199.jpg'>
+    <box top='110' left='46' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\200.jpg'>
+    <box top='110' left='46' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\201.jpg'>
+    <box top='118' left='46' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\202.jpg'>
+    <box top='118' left='38' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\203.jpg'>
+    <box top='102' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\204.jpg'>
+    <box top='102' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\205.jpg'>
+    <box top='102' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\206.jpg'>
+    <box top='102' left='62' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\207.jpg'>
+    <box top='102' left='62' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\208.jpg'>
+    <box top='102' left='62' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\209.jpg'>
+    <box top='102' left='62' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\210.jpg'>
+    <box top='94' left='62' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\211.jpg'>
+    <box top='94' left='62' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\212.jpg'>
+    <box top='94' left='62' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\213.jpg'>
+    <box top='94' left='62' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\214.jpg'>
+    <box top='102' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\215.jpg'>
+    <box top='102' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\216.jpg'>
+    <box top='102' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\217.jpg'>
+    <box top='102' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\218.jpg'>
+    <box top='102' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\219.jpg'>
+    <box top='102' left='46' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\220.jpg'>
+    <box top='94' left='46' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\221.jpg'>
+    <box top='94' left='46' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\222.jpg'>
+    <box top='94' left='46' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\223.jpg'>
+    <box top='94' left='46' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\224.jpg'>
+    <box top='94' left='38' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\225.jpg'>
+    <box top='158' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\226.jpg'>
+    <box top='158' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\227.jpg'>
+    <box top='150' left='46' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\228.jpg'>
+    <box top='150' left='46' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\237.jpg'>
+    <box top='158' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\238.jpg'>
+    <box top='158' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\239.jpg'>
+    <box top='158' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\240.jpg'>
+    <box top='158' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\241.jpg'>
+    <box top='166' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\242.jpg'>
+    <box top='166' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\243.jpg'>
+    <box top='166' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\244.jpg'>
+    <box top='166' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\245.jpg'>
+    <box top='166' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\246.jpg'>
+    <box top='166' left='62' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\247.jpg'>
+    <box top='166' left='62' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\248.jpg'>
+    <box top='158' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\249.jpg'>
+    <box top='158' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\250.jpg'>
+    <box top='158' left='46' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\251.jpg'>
+    <box top='158' left='46' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\252.jpg'>
+    <box top='166' left='46' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\253.jpg'>
+    <box top='166' left='46' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\254.jpg'>
+    <box top='166' left='46' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\255.jpg'>
+    <box top='166' left='38' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\256.jpg'>
+    <box top='166' left='38' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\257.jpg'>
+    <box top='166' left='38' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\258.jpg'>
+    <box top='166' left='38' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\259.jpg'>
+    <box top='158' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\260.jpg'>
+    <box top='158' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\261.jpg'>
+    <box top='158' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\262.jpg'>
+    <box top='150' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\263.jpg'>
+    <box top='150' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\264.jpg'>
+    <box top='150' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\265.jpg'>
+    <box top='150' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\266.jpg'>
+    <box top='150' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\268.jpg'>
+    <box top='150' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\269.jpg'>
+    <box top='142' left='62' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\270.jpg'>
+    <box top='158' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\271.jpg'>
+    <box top='158' left='54' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\272.jpg'>
+    <box top='158' left='46' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\273.jpg'>
+    <box top='158' left='46' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\274.jpg'>
+    <box top='150' left='46' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\275.jpg'>
+    <box top='150' left='46' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\276.jpg'>
+    <box top='150' left='46' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\277.jpg'>
+    <box top='150' left='38' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\278.jpg'>
+    <box top='150' left='38' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\279.jpg'>
+    <box top='150' left='38' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\281.jpg'>
+    <box top='262' left='14' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\282.jpg'>
+    <box top='262' left='14' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\283.jpg'>
+    <box top='262' left='6' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\284.jpg'>
+    <box top='262' left='-10' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\285.jpg'>
+    <box top='254' left='-18' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\293.jpg'>
+    <box top='262' left='14' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\294.jpg'>
+    <box top='262' left='14' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\304.jpg'>
+    <box top='262' left='14' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\305.jpg'>
+    <box top='262' left='14' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\306.jpg'>
+    <box top='262' left='14' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\315.jpg'>
+    <box top='262' left='14' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\316.jpg'>
+    <box top='262' left='14' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\317.jpg'>
+    <box top='262' left='14' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\318.jpg'>
+    <box top='262' left='14' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\319.jpg'>
+    <box top='262' left='14' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\320.jpg'>
+    <box top='262' left='14' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\321.jpg'>
+    <box top='262' left='14' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\322.jpg'>
+    <box top='262' left='14' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\323.jpg'>
+    <box top='262' left='14' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\324.jpg'>
+    <box top='262' left='14' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\325.jpg'>
+    <box top='262' left='14' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\326.jpg'>
+    <box top='262' left='14' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\327.jpg'>
+    <box top='262' left='14' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\328.jpg'>
+    <box top='262' left='14' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\329.jpg'>
+    <box top='262' left='6' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\330.jpg'>
+    <box top='262' left='6' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\331.jpg'>
+    <box top='262' left='6' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\332.jpg'>
+    <box top='262' left='6' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\333.jpg'>
+    <box top='262' left='-10' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\334.jpg'>
+    <box top='262' left='-10' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\335.jpg'>
+    <box top='262' left='-10' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\336.jpg'>
+    <box top='262' left='-10' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\337.jpg'>
+    <box top='190' left='214' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\338.jpg'>
+    <box top='198' left='214' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\339.jpg'>
+    <box top='198' left='214' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\340.jpg'>
+    <box top='206' left='214' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\341.jpg'>
+    <box top='214' left='222' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\342.jpg'>
+    <box top='214' left='222' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\343.jpg'>
+    <box top='222' left='222' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\344.jpg'>
+    <box top='230' left='222' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\345.jpg'>
+    <box top='230' left='222' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\346.jpg'>
+    <box top='238' left='222' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\347.jpg'>
+    <box top='238' left='222' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\348.jpg'>
+    <box top='246' left='214' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\349.jpg'>
+    <box top='190' left='214' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\350.jpg'>
+    <box top='198' left='214' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\351.jpg'>
+    <box top='198' left='214' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\352.jpg'>
+    <box top='198' left='222' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\353.jpg'>
+    <box top='198' left='222' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\354.jpg'>
+    <box top='198' left='222' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\355.jpg'>
+    <box top='198' left='222' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\356.jpg'>
+    <box top='206' left='222' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\357.jpg'>
+    <box top='206' left='230' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\358.jpg'>
+    <box top='206' left='230' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\359.jpg'>
+    <box top='206' left='230' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\360.jpg'>
+    <box top='190' left='214' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\361.jpg'>
+    <box top='198' left='214' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\362.jpg'>
+    <box top='198' left='214' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\363.jpg'>
+    <box top='198' left='214' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\364.jpg'>
+    <box top='198' left='214' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\365.jpg'>
+    <box top='198' left='214' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\366.jpg'>
+    <box top='206' left='206' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\367.jpg'>
+    <box top='206' left='206' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\368.jpg'>
+    <box top='206' left='206' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\369.jpg'>
+    <box top='206' left='206' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\370.jpg'>
+    <box top='206' left='206' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\371.jpg'>
+    <box top='190' left='214' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\372.jpg'>
+    <box top='190' left='214' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\373.jpg'>
+    <box top='190' left='222' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\374.jpg'>
+    <box top='190' left='222' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\375.jpg'>
+    <box top='190' left='222' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\376.jpg'>
+    <box top='190' left='222' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\377.jpg'>
+    <box top='190' left='222' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\378.jpg'>
+    <box top='190' left='222' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\379.jpg'>
+    <box top='190' left='222' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\380.jpg'>
+    <box top='190' left='230' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\381.jpg'>
+    <box top='182' left='230' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\382.jpg'>
+    <box top='190' left='214' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\383.jpg'>
+    <box top='190' left='214' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\384.jpg'>
+    <box top='190' left='214' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\385.jpg'>
+    <box top='190' left='214' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\386.jpg'>
+    <box top='190' left='214' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\387.jpg'>
+    <box top='190' left='214' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\388.jpg'>
+    <box top='190' left='206' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\389.jpg'>
+    <box top='190' left='206' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\390.jpg'>
+    <box top='190' left='206' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\391.jpg'>
+    <box top='182' left='206' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\392.jpg'>
+    <box top='182' left='206' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\393.jpg'>
+    <box top='86' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\394.jpg'>
+    <box top='86' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\395.jpg'>
+    <box top='86' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\396.jpg'>
+    <box top='78' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\397.jpg'>
+    <box top='78' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\398.jpg'>
+    <box top='78' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\399.jpg'>
+    <box top='78' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\400.jpg'>
+    <box top='78' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\402.jpg'>
+    <box top='70' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\403.jpg'>
+    <box top='70' left='158' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\404.jpg'>
+    <box top='62' left='158' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\405.jpg'>
+    <box top='86' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\406.jpg'>
+    <box top='86' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\407.jpg'>
+    <box top='86' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\408.jpg'>
+    <box top='86' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\409.jpg'>
+    <box top='86' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\410.jpg'>
+    <box top='86' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\411.jpg'>
+    <box top='86' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\412.jpg'>
+    <box top='94' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\413.jpg'>
+    <box top='94' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\414.jpg'>
+    <box top='94' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\415.jpg'>
+    <box top='94' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\416.jpg'>
+    <box top='86' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\417.jpg'>
+    <box top='86' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\418.jpg'>
+    <box top='86' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\419.jpg'>
+    <box top='86' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\420.jpg'>
+    <box top='86' left='134' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\421.jpg'>
+    <box top='86' left='134' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\422.jpg'>
+    <box top='86' left='134' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\423.jpg'>
+    <box top='94' left='134' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\424.jpg'>
+    <box top='94' left='134' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\425.jpg'>
+    <box top='94' left='134' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\426.jpg'>
+    <box top='94' left='134' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\427.jpg'>
+    <box top='86' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\428.jpg'>
+    <box top='86' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\429.jpg'>
+    <box top='78' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\430.jpg'>
+    <box top='78' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\431.jpg'>
+    <box top='78' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\432.jpg'>
+    <box top='78' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\433.jpg'>
+    <box top='78' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\434.jpg'>
+    <box top='78' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\435.jpg'>
+    <box top='70' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\436.jpg'>
+    <box top='70' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\437.jpg'>
+    <box top='70' left='158' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\438.jpg'>
+    <box top='86' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\439.jpg'>
+    <box top='86' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\440.jpg'>
+    <box top='78' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\441.jpg'>
+    <box top='78' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\442.jpg'>
+    <box top='78' left='134' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\443.jpg'>
+    <box top='78' left='134' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\444.jpg'>
+    <box top='78' left='134' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\445.jpg'>
+    <box top='78' left='134' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\446.jpg'>
+    <box top='70' left='134' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\447.jpg'>
+    <box top='70' left='134' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\448.jpg'>
+    <box top='70' left='134' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\449.jpg'>
+    <box top='222' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\450.jpg'>
+    <box top='230' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\451.jpg'>
+    <box top='230' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\452.jpg'>
+    <box top='230' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\453.jpg'>
+    <box top='230' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\454.jpg'>
+    <box top='230' left='134' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\455.jpg'>
+    <box top='238' left='134' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\456.jpg'>
+    <box top='238' left='126' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\457.jpg'>
+    <box top='238' left='126' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\458.jpg'>
+    <box top='238' left='126' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\459.jpg'>
+    <box top='238' left='118' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\460.jpg'>
+    <box top='238' left='118' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\461.jpg'>
+    <box top='222' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\462.jpg'>
+    <box top='230' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\463.jpg'>
+    <box top='230' left='158' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\464.jpg'>
+    <box top='230' left='158' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\465.jpg'>
+    <box top='230' left='158' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\466.jpg'>
+    <box top='230' left='158' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\467.jpg'>
+    <box top='230' left='158' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\468.jpg'>
+    <box top='238' left='158' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\469.jpg'>
+    <box top='238' left='158' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\470.jpg'>
+    <box top='238' left='158' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\471.jpg'>
+    <box top='238' left='166' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\472.jpg'>
+    <box top='222' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\473.jpg'>
+    <box top='230' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\474.jpg'>
+    <box top='230' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\475.jpg'>
+    <box top='230' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\476.jpg'>
+    <box top='230' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\477.jpg'>
+    <box top='230' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\478.jpg'>
+    <box top='230' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\479.jpg'>
+    <box top='238' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\480.jpg'>
+    <box top='238' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\481.jpg'>
+    <box top='238' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\482.jpg'>
+    <box top='238' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\483.jpg'>
+    <box top='222' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\484.jpg'>
+    <box top='222' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\485.jpg'>
+    <box top='222' left='158' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\486.jpg'>
+    <box top='222' left='158' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\487.jpg'>
+    <box top='222' left='158' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\488.jpg'>
+    <box top='222' left='158' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\489.jpg'>
+    <box top='222' left='158' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\490.jpg'>
+    <box top='222' left='158' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\491.jpg'>
+    <box top='222' left='158' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\492.jpg'>
+    <box top='214' left='158' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\493.jpg'>
+    <box top='214' left='158' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\494.jpg'>
+    <box top='222' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\495.jpg'>
+    <box top='222' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\496.jpg'>
+    <box top='222' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\497.jpg'>
+    <box top='222' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\498.jpg'>
+    <box top='222' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\499.jpg'>
+    <box top='222' left='150' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\500.jpg'>
+    <box top='222' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\501.jpg'>
+    <box top='222' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\502.jpg'>
+    <box top='222' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\503.jpg'>
+    <box top='214' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\504.jpg'>
+    <box top='214' left='142' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\534.jpg'>
+    <box top='166' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\535.jpg'>
+    <box top='166' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\536.jpg'>
+    <box top='166' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\537.jpg'>
+    <box top='166' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\538.jpg'>
+    <box top='166' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\556.jpg'>
+    <box top='150' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\557.jpg'>
+    <box top='150' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\558.jpg'>
+    <box top='150' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\559.jpg'>
+    <box top='142' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\560.jpg'>
+    <box top='142' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\673.jpg'>
+    <box top='262' left='118' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\685.jpg'>
+    <box top='262' left='118' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\696.jpg'>
+    <box top='262' left='118' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\707.jpg'>
+    <box top='262' left='118' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\708.jpg'>
+    <box top='262' left='118' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\709.jpg'>
+    <box top='262' left='118' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\710.jpg'>
+    <box top='262' left='118' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\711.jpg'>
+    <box top='262' left='118' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\712.jpg'>
+    <box top='262' left='118' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\713.jpg'>
+    <box top='262' left='118' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\714.jpg'>
+    <box top='262' left='118' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\715.jpg'>
+    <box top='262' left='126' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\716.jpg'>
+    <box top='262' left='126' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\717.jpg'>
+    <box top='262' left='126' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\718.jpg'>
+    <box top='262' left='118' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\719.jpg'>
+    <box top='262' left='110' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\720.jpg'>
+    <box top='262' left='110' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\721.jpg'>
+    <box top='262' left='110' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\722.jpg'>
+    <box top='262' left='110' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\723.jpg'>
+    <box top='262' left='110' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\724.jpg'>
+    <box top='262' left='110' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\725.jpg'>
+    <box top='262' left='110' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\726.jpg'>
+    <box top='262' left='102' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\727.jpg'>
+    <box top='262' left='102' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\728.jpg'>
+    <box top='262' left='102' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\729.jpg'>
+    <box top='22' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\741.jpg'>
+    <box top='30' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\742.jpg'>
+    <box top='30' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\743.jpg'>
+    <box top='30' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\752.jpg'>
+    <box top='30' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\753.jpg'>
+    <box top='30' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\754.jpg'>
+    <box top='30' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\755.jpg'>
+    <box top='30' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\756.jpg'>
+    <box top='30' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\757.jpg'>
+    <box top='30' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\758.jpg'>
+    <box top='30' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\759.jpg'>
+    <box top='30' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\760.jpg'>
+    <box top='30' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\761.jpg'>
+    <box top='30' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\762.jpg'>
+    <box top='30' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\763.jpg'>
+    <box top='22' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\764.jpg'>
+    <box top='22' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\765.jpg'>
+    <box top='22' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\774.jpg'>
+    <box top='22' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\775.jpg'>
+    <box top='22' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\776.jpg'>
+    <box top='22' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\777.jpg'>
+    <box top='22' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\778.jpg'>
+    <box top='22' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\779.jpg'>
+    <box top='22' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\780.jpg'>
+    <box top='14' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\781.jpg'>
+    <box top='14' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\782.jpg'>
+    <box top='14' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\783.jpg'>
+    <box top='14' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\784.jpg'>
+    <box top='6' left='262' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\785.jpg'>
+    <box top='46' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\786.jpg'>
+    <box top='38' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\787.jpg'>
+    <box top='30' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\788.jpg'>
+    <box top='30' left='94' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\789.jpg'>
+    <box top='22' left='94' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\790.jpg'>
+    <box top='22' left='102' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\797.jpg'>
+    <box top='46' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\798.jpg'>
+    <box top='46' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\799.jpg'>
+    <box top='46' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\800.jpg'>
+    <box top='46' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\801.jpg'>
+    <box top='46' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\802.jpg'>
+    <box top='46' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\803.jpg'>
+    <box top='46' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\804.jpg'>
+    <box top='46' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\805.jpg'>
+    <box top='46' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\806.jpg'>
+    <box top='46' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\807.jpg'>
+    <box top='46' left='94' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\808.jpg'>
+    <box top='46' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\809.jpg'>
+    <box top='46' left='78' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\810.jpg'>
+    <box top='46' left='78' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\811.jpg'>
+    <box top='46' left='78' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\812.jpg'>
+    <box top='46' left='78' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\813.jpg'>
+    <box top='46' left='78' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\814.jpg'>
+    <box top='46' left='78' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\815.jpg'>
+    <box top='46' left='70' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\816.jpg'>
+    <box top='46' left='70' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\817.jpg'>
+    <box top='46' left='70' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\818.jpg'>
+    <box top='46' left='70' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\819.jpg'>
+    <box top='46' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\820.jpg'>
+    <box top='38' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\821.jpg'>
+    <box top='38' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\822.jpg'>
+    <box top='38' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\823.jpg'>
+    <box top='38' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\824.jpg'>
+    <box top='30' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\825.jpg'>
+    <box top='30' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\826.jpg'>
+    <box top='30' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\827.jpg'>
+    <box top='30' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\828.jpg'>
+    <box top='22' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\829.jpg'>
+    <box top='22' left='94' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\830.jpg'>
+    <box top='46' left='86' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\831.jpg'>
+    <box top='38' left='78' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\832.jpg'>
+    <box top='38' left='78' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\833.jpg'>
+    <box top='38' left='78' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\834.jpg'>
+    <box top='38' left='78' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\835.jpg'>
+    <box top='30' left='78' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\836.jpg'>
+    <box top='30' left='78' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\837.jpg'>
+    <box top='30' left='70' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\838.jpg'>
+    <box top='30' left='70' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\839.jpg'>
+    <box top='22' left='70' width='80' height='80'/>
+  </image>
+  <image file = 'E:\Paper_4_3\src_4_3_gai\test4\840.jpg'>
+    <box top='22' left='70' width='80' height='80'/>
+  </image>
+</images>
+</dataset>
